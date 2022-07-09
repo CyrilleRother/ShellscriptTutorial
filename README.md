@@ -1,4 +1,5 @@
-# shellscripts
+# ShellscriptTutorial
+
 Einfache Linux Shellscripts für meine Youtube tutorials.
 
 1. Hello World / Text ausgeben
